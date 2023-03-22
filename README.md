@@ -1,7 +1,7 @@
 # Streaming Video Model
 
 > **Streaming Video Model** <br>
-> Yucheng Zhao, Chong Luo, Chuanxin Tang, Dongdong Chen, Noel C Codella, Zheng-Jun Zha <br>
+> Yucheng Zhao, Chong Luo, Chuanxin Tang, Dongdong Chen, Noel Codella, Zheng-Jun Zha <br>
 > *CVPR 2023* <br>
 
 [[Paper (Coming soon) ](https://github.com/yuzhms/Streaming-Video-Model)] 
@@ -29,7 +29,7 @@ We are cleaning and merging the code and hope to release it very soon.
 ```bibtex
 @inproceedings{zhao2023svm,
   title   = {Streaming Video Model},
-  author  = {Yucheng Zhao, Chong Luo, Chuanxin Tang, Dongdong Chen, Noel C Codella, Zheng-Jun Zha},
+  author  = {Yucheng Zhao, Chong Luo, Chuanxin Tang, Dongdong Chen, Noel Codella, Zheng-Jun Zha},
   booktitle = {CVPR},
   year    = {2023}
 }

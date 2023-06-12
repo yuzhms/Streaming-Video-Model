@@ -128,7 +128,7 @@ bash ./tools/dist_test.sh configs/mot/svm/svm_test.py 8 \
 ### MOT17
 | Method | Dataset |                Train Data                | MOTA | HOTA | IDF1 |    URL    |
 | :---: | :---: |:----------------------------------------:|:----:|:----:|:----:|:---------:|
-| SVM | MOT17 | MOT17 half-train + crowdhuman + MOTSynth | 79.7 | 68.1 | 80.9 | [model](https://github.com/yuzhms/Streaming-Video-Model/releases/download/v1.0/svm_motsync_ch_mot17half.pth) |
+| SVM | MOT17 | MOT17 half-train + crowdhuman + MOTSynth | 79.7 | 68.1 | 80.9 | [model](https://github.com/yuzhms/Streaming-Video-Model/releases/download/v1.0/svm_mot17-half-val.pth) |
 
 ## Citation
 If you find this work useful in your research, please consider citing:
